@@ -97,7 +97,7 @@ timers.resume
 License
 -------
 
-Copyright (c) 2014 Celluloid timers project developers (given in the file
+Copyright (c) 2016 Celluloid timers project developers (given in the file
 AUTHORS.md).
 
 Distributed under the MIT License. See LICENSE file for further details.
